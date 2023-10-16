@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops(Dockers,kubernates),AWS**
 
-- 👯 I’m looking to collaborate on **project which requireS devs with Ops**
+- 👯 I’m looking to collaborate on **project which requires devs with Ops**
 
 - 💬 Ask me about **Node js , react js , devops , databases**
 
